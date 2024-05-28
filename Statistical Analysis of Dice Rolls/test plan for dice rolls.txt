@@ -1,0 +1,3 @@
+Dice 	3	0(redo)		5
+Sides 	6 	1(redo)		10
+Rolls 	100000	39(redo)	200000

@@ -1,0 +1,88 @@
+How many dices are you using?: 3
+How many sides are on each dice?: 6
+How many rolls are you planning on doing?: 100000
+Rolled         1
+Rolled         2
+Rolled         3
+Rolled         4 *
+Rolled         5 ****
+Rolled         6 ********
+Rolled         7 **************
+Rolled         8 *********************
+Rolled         9 *******************************
+Rolled        10 ************************************
+Rolled        11 ***************************************
+Rolled        12 ****************************************
+Rolled        13 ************************************
+Rolled        14 ******************************
+Rolled        15 **********************
+Rolled        16 **************
+Rolled        17 ********
+Rolled        18 ****
+Rolled        19 *
+
+C:\Users\marti\Desktop\CIST 004 Class\Statistical Analysis of Dice Rolls\x64\Debug\Statistical Analysis of Dice Rolls.exe (process 14656) exited with code 0.
+Press any key to close this window . . .
+
+
+How many dices are you using?: 0
+How many dices are you using?: 5
+How many sides are on each dice?: 1
+How many sides are on each dice?: 10
+How many rolls are you planning on doing?: 39
+How many rolls are you planning on doing?: 200000
+Rolled         1
+Rolled         2
+Rolled         3
+Rolled         4
+Rolled         5
+Rolled         6
+Rolled         7
+Rolled         8
+Rolled         9
+Rolled        10
+Rolled        11
+Rolled        12 *
+Rolled        13 **
+Rolled        14 ***
+Rolled        15 ****
+Rolled        16 ******
+Rolled        17 ********
+Rolled        18 ***********
+Rolled        19 **************
+Rolled        20 *****************
+Rolled        21 *********************
+Rolled        22 *************************
+Rolled        23 ****************************
+Rolled        24 *******************************
+Rolled        25 **********************************
+Rolled        26 *************************************
+Rolled        27 **************************************
+Rolled        28 ***************************************
+Rolled        29 ****************************************
+Rolled        30 **************************************
+Rolled        31 ************************************
+Rolled        32 **********************************
+Rolled        33 ********************************
+Rolled        34 ****************************
+Rolled        35 *************************
+Rolled        36 *********************
+Rolled        37 *****************
+Rolled        38 **************
+Rolled        39 ***********
+Rolled        40 ********
+Rolled        41 ******
+Rolled        42 ****
+Rolled        43 ***
+Rolled        44 **
+Rolled        45 *
+Rolled        46
+Rolled        47
+Rolled        48
+Rolled        49
+Rolled        50
+Rolled        51
+
+C:\Users\marti\Desktop\CIST 004 Class\Statistical Analysis of Dice Rolls\x64\Debug\Statistical Analysis of Dice Rolls.exe (process 14656) exited with code 0.
+Press any key to close this window . . .
+

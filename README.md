@@ -73,30 +73,11 @@ CIST 004A covers the following key topics in C++ programming:
 **Skills Demonstrated:** Random number generation, statistical calculations.  
 **Files:** `Statistical Analysis of Dice Rolls/`
 
-## How to Use
-
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/cist004a-cpp-projects.git
-    ```
-2. Navigate to the project directory of interest:
-    ```bash
-    cd cist004a-cpp-projects/BMIprogram
-    ```
-3. Compile and run the C++ programs using your preferred compiler. For example:
-    ```bash
-    g++ main.cpp -o main
-    ./main
-    ```
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. CIST 004A designed by Professor Howard Miller at West Valley Mission College
 
 ---
 
-Thank you for checking out my C++ projects for CIST 004A. I hope you find them informative and useful!
+Thank you.

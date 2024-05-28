@@ -1,0 +1,41 @@
+Martin Nguyen   CIST 004A       9-19-2022
+
+Simple GPA Calculator Program
+
+To calculate your GPA, enter each letter grade with an optional + or -. Or enter E to exit the program.
+
+Next enter the number of units for the course follow by the [Return] key.
+
+Please enter a letter grade: for student #1: A+
+A+ count only as A
+Please enter a unit value for course 1: 45
+
+Please enter a letter grade: for student #2: f-
+F- count only as F
+Please enter a unit value for course 2: 0.5
+
+Please enter a letter grade: for student #3: b+
+Please enter a unit value for course 3: 46
+Please enter a unit value for course 3: 40
+
+Please enter a letter grade: for student #4: z
+You entered a invalid letter please reenter
+Please enter a letter grade: for student #4: C-
+Please enter a unit value for course 4: 30
+
+Please enter a letter grade: for student #5: D
+Please enter a unit value for course 5: 0.4
+Please enter a unit value for course 5: 10
+
+Please enter a letter grade: for student #6: f
+Please enter a unit value for course 6: 10
+
+Please enter a letter grade: for student #7:
+A-
+Please enter a unit value for course 7:
+30
+
+Please enter a letter grade: for student #8: E
+Your GPA for the 7 valid courses entered is: 2.924
+C:\Users\marti\Desktop\CIST 004 Class\CollegeGpaCalculator\x64\Debug\CollegeGpaCalculator.exe (process 25796) exited with code 0.
+Press any key to close this window . . .

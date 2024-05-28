@@ -1,2 +1,0 @@
-Grade	Output		Units	Grade 2   Output   	Units 2   Grades 3   Units 3	Units 3 Reentered   Grades 4	Grades 4 Reentered   Units 4 		 Grade 5		Units  5	Units 4 renentered		Grade 6		Units 6		Grade 7		Units   Grade 7		GPA 	 	
-A+ 	A+ output	45	f-	  f- output	0.5	    b+	       46	40		    z		C-                   30			 D		        0.4		10				f		10		A-		30	E		2.92

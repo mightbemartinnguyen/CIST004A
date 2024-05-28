@@ -1,0 +1,24 @@
+Create a functional program to compute BMI.  Some needed steps: Input Height and Weight. Convert Height from Inches to Centimeters and weight from Pounds to Kilograms.  Output a comment about the input based on the values.
+
+Make this run!
+
+Then Expand to Compute Body Mass Index (BMI) 
+
+BMI = Mass in KG / (Height in Meters)^2  (^2 means Squared)
+
+Convert the BMI value to respond to Over, Under and "Healthy" conditions.  You will have to use google to research what BMI values separate those ranges.
+
+(Note:  I really hate BMI and don't think it is a good indicator of health!)
+
+Here is an outline:
+
+- Prompt for Height
+- Input height
+- Prompt for Weight
+- Input weight
+- Convert both to metric (2.540cm is 1 Inch, 100.0cm is 1.0 Meter, 1.0 Kilogram is 2.20462 Pounds) Hint: Uses these constants as provided...no precomputed values!
+- Output those values
+- Include at least one conditional to produce a comment (snarky or otherwise) about the input value.
+- Convert to BMI, Output those results with some assessment and snarky comment.
+
+Hint: Use the FULL constants as-is

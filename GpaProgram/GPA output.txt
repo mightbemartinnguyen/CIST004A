@@ -1,0 +1,21 @@
+Martin Nguyen   CIST 004A       9-19-2022
+
+How many student GPA  would you like to input?: 5
+Please enter student GPA 1: 2.2
+Please enter student GPA 2: 4.1
+
+Renter a valid GPA (0.0 to 4.0) for student #2: 3.3
+Please enter student GPA 3: 2.1
+Please enter student GPA 4: 1.1
+Please enter student GPA 5: -1000
+
+Renter a valid GPA (0.0 to 4.0) for student #5: 3.8
+
+The Minimum GPA entered was 1.100
+
+The Maximum GPA entered was 3.800
+
+The Average of all GPAs was 2.500
+
+C:\Users\marti\Desktop\CIST 004 Class\GpaProgram\x64\Debug\GpaProgram.exe (process 36340) exited with code 0.
+Press any key to close this window . . .

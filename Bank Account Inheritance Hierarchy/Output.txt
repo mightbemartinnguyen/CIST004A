@@ -1,0 +1,32 @@
+Creating 3 Test Bank Accounts:
+Account 1 (Base) balance: $50.01
+Account 2 (Savings) balance: $25.02
+Account 3 (Checking) balance: $80.03
+
+Bank Account Withdrawal tests:
+Now withdrawing $25.00 from account 1.
+Now withdrawing $30.00 from account 2.
+Insufficient funds to honor the withdrawal request.
+Now withdrawing $40.00 from account 3.
+$1.00 transaction fee charged.
+
+Account 1 balance: $25.01
+Account 2 balance: $25.02
+Account 3 balance: $39.03
+
+Bank Account Deposit tests:
+Now depositing $40.23 to account 1.
+Now depositing $65.99 to account 2.
+Now depositing $20.01 to account 3.
+$1.00 transaction fee charged.
+
+Account 1 balance: $65.24
+Account 2 balance: $91.01
+Account 3 balance: $58.04
+
+Bank Account Interest test:
+Adding $4.55 interest to  account 2.
+The new account 2 balance is: $95.56
+
+C:\Users\marti\Desktop\CIST 004 Class\Bank Account Inheritance Hierarchy\x64\Debug\Bank Account Inheritance Hierarchy.exe (process 24456) exited with code 0.
+Press any key to close this window . . .

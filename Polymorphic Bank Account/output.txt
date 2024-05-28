@@ -1,0 +1,34 @@
+Account 1 balance: $ 25.00
+Enter an amount to withdraw from account 1 : 40
+Debit amount exceeded account balance.
+Enter an amount to deposit into account 1 : 10
+Adding $ 1.05 interest to account 1 (A SavingsAccount)
+Updated Account 1 balance : $ 36.05
+
+Account 2 balance: $ 80.00
+Enter an amount to withdraw from account 2 : 0
+Enter an amount to deposit into account 2 : 20
+$2.00 Transaction Fee Charged
+Updated Account 2 balance : $ 98.00
+
+Account 3 balance: $ 200.00
+Enter an amount to withdraw from account 3 : 25
+Enter an amount to deposit into account 3 : 0
+Adding $ 5.25 interest to account 3 (A SavingsAccount)
+Updated Account 3 balance : $ 180.25
+
+Account 4 balance: $ 400.00
+Enter an amount to withdraw from account 4 : 450
+Debit amount exceeded account balance
+Using Overdraft Protection (Legal money extraction rip-off)
+$1.50 transaction Fee Charged
+$35.00 Overdraft transaction Fee Charged
+
+Updated overdraft Savings Account Balance : 93.75
+Enter an amount to deposit into account 4 : 25
+$1.50 Transaction Fee Charged
+Updated Account 4 balance : $ 23.50
+
+
+C:\Users\marti\Desktop\CIST 004 Class\Polymorphic Bank Account\x64\Debug\Polymorphic Bank Account.exe (process 20316) exited with code 0.
+Press any key to close this window . . .

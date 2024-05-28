@@ -1,0 +1,42 @@
+Output 1
+Martin Nguyen   CIST 004A       9-07-2022
+
+Please enter your height in inches: 59
+You are short, haha.
+
+Please enter your weight in pounds: 130
+Your BMI is: 26.2566 kg/m^2.
+
+You are overweight.
+
+C:\Users\marti\Desktop\CIST 004 Class\BMIprogram\x64\Debug\BMIprogram.exe (process 24700) exited with code 0.
+Press any key to close this window . . .
+
+
+Output 2
+Martin Nguyen   CIST 004A       9-07-2022
+
+Please enter your height in inches: 70
+Normal height. Boring.
+
+Please enter your weight in pounds: 160
+Your BMI is: 22.9574 kg/m^2.
+
+You are healthy congrats.
+
+C:\Users\marti\Desktop\CIST 004 Class\BMIprogram\x64\Debug\BMIprogram.exe (process 18204) exited with code 0.
+Press any key to close this window . . .
+
+Output 3
+Martin Nguyen   CIST 004A       9-07-2022
+
+Please enter your height in inches: 75
+You are pretty tall. Want to join the NBA?
+
+Please enter your weight in pounds: 100
+Your BMI is: 12.499 kg/m^2.
+
+You are underweight. Eat more.
+
+C:\Users\marti\Desktop\CIST 004 Class\BMIprogram\x64\Debug\BMIprogram.exe (process 15040) exited with code 0.
+Press any key to close this window . . .

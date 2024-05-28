@@ -1,0 +1,4 @@
+﻿Height  Weight   BMI    Output message
+59       130     26.3    Short height and overweight messages
+70      160      23      Normal height and health bmi messages
+75      100      12.5     Tall height and underweight bmi messages

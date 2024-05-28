@@ -1,0 +1,8 @@
+string
+"  front    middle end    "
+
+characters: 27
+vowels: 4
+Uppercase first letters:    "  Front    Middle End    "
+Shouting:    "  FRONT    MIDDLE END    "
+Spaces:"FRONT MIDDLE END "

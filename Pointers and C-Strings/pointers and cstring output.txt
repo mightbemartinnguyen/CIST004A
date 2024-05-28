@@ -1,0 +1,11 @@
+Martin Nguyen   CIST 004A       10-25-2022
+Enter a string:   front    middle end
+There are 25 characters in "  front    middle end    "
+There are 4 vowels in "  front    middle end    "
+Upper case first characters: "  Front    Middle End    "
+Shouting: "  FRONT    MIDDLE END    "
+Extra spaces removed: "FRONT MIDDLE END "
+
+C:\Users\marti\Desktop\CIST 004 Class\Pointers and C-Strings\x64\Debug\Pointers and C-Strings.exe (process 21976) exited with code 0.
+Press any key to close this window . . .
+

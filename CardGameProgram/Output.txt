@@ -1,0 +1,43 @@
+The current win count is:
+You: 0 Computer: 0
+
+Enter a card number from 0 to 51: 0
+Your selected card is: Ace of Hearts
+The Computer's card is: Six of Spades.
+You win this round. You get 1 point.
+The current win count is:
+You: 1 Computer: 0
+
+Enter a card number from 0 to 51: -1
+
+Enter a card number from 0 to 51: 52
+
+Enter a card number from 0 to 51: 49
+Your selected card is: Seven of Diamonds
+The Computer's card is: Seven of Diamonds.
+You and the computer have the same card. You each get a point
+
+Enter a card number from 0 to 51: 23
+Your selected card is: Eight of Clubs
+The Computer's card is: Nine of Spades.
+You lose this round. Computer gets 1 point.
+The current win count is:
+You: 2 Computer: 2
+
+Enter a card number from 0 to 51: 12
+Your selected card is: Ace of Diamonds
+The Computer's card is: Six of Diamonds.
+You win this round. You get 1 point.
+The current win count is:
+You: 3 Computer: 2
+
+Enter a card number from 0 to 51: 30
+Your selected card is: King of Clubs
+The Computer's card is: Jack of Hearts.
+You win this round. You get 1 point.
+The current win count is:
+You: 4 Computer: 2
+Congrats, you won the game!
+
+C:\Users\marti\Desktop\CIST 004 Class\CardGameProgram\x64\Debug\CardGameProgram.exe (process 28988) exited with code 0.
+Press any key to close this window . . .
